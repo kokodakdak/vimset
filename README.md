@@ -6,5 +6,11 @@
 cd ~
 git clone http://github.com/kokodakdak/vimset
 cd vimset
-cp -f ./.vimrc ~
+cp ./.vimrc ~
 ,,,
+
+
+
+*item1
+*item2
+
